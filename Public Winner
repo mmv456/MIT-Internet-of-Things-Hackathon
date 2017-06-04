@@ -1,5 +1,5 @@
-#include "InternetButton.h"
-#include "Particle.h"
+#include "InternetButton.h"  // Internet Button library
+#include "Particle.h"        // Particle library
 
 /* How about we make this interactive? */
 
