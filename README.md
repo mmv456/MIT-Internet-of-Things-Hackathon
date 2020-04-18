@@ -1,7 +1,7 @@
 # MIT Internet-of-Things Hackathon: Public Winner
 Hackathon at MIT where we built IoT devices that can sense, connect, infer, and act. Took place on June 3, 2017 and included students from the MIT Internet of Things Bootcamp that took place from May 29 to June 3, 2017.
 
-As part of the Public Participants, my group (consisting of Marci Garcia, Cynthia, Zan Huang, Pushy Singh, and myself) created a product called FoundYa.
+As part of the Public Participants, my group (consisting of Marci Garcia, Cynthia Frommit, Zan Huang, Pushy Singh, and myself) created a product called FoundYa.
 
 Every day, we lose things like our keys, our pets, and our kids. What if there was a way for us to contact our children - no matter how young they are - to come home? Most parents aren't comfortable giving their kids phones until they reach a certain age, so communicating by phone might not be an option. But what if it could be done... by the push of a button?
 
